@@ -1,0 +1,87 @@
+
+.parent {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 1.5px solid black;
+    border-radius: 7px;
+}
+
+.Header {
+    padding: 1%;
+    background: #2f3d46;
+}
+
+.giticonLabel {
+    font-size: 26px;
+    color: white;
+}
+
+.gitLbl {
+    justify-content: center;
+    display: flex;
+    font-weight: 600;
+    font-size: 19px;
+    color: white;
+}
+
+.child-2 {
+    background: #cad2c5;
+}
+
+.box-1 {
+    border-radius: 5px;
+    height: 400px;
+    background: #353535;
+}
+
+.box-2 {
+    border-radius: 5px;
+    background: #353535;
+}
+.box-5 {
+    border-radius: 10px;
+    background: #353535;
+    height: 107px;
+}
+
+.boxmargin {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.pd-2 {
+    padding: 2%;
+}
+
+.secondsec {
+
+    padding: 2%;
+    padding-top: 0;
+}
+
+.search-span {
+
+    margin-left: 4%;
+    color: #989898;
+    font-weight: 500;
+}
+
+.mar-4 {
+    margin-top: 8%;
+    margin-bottom: 6%;
+}
+
+.square {
+    border: 1px solid black;
+    height: 35px;
+    width: 50px;
+    border-radius: 10px;
+    background: #353535;
+    border: 1px solid black;
+    height: 139px;
+    width: 185px;
+    border-radius: 10px;
+    background: #353535;
+}
